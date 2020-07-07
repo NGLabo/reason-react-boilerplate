@@ -6,13 +6,13 @@
     "parcel-watch": "parcel public/index.html"
   },
   "dependencies": {
-    "bs-platform": "^8.0.3",
-    "parcel": "^2.0.0-beta.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "reason-react": "^0.9.1"
   },
   "devDependencies": {
+    "bs-platform": "^8.0.3",
+    "parcel": "^2.0.0-beta.1",
     "shx": "^0.3.2"
   }
 }
