@@ -3,7 +3,7 @@
   "scripts": {
     "bsb-build": "bsb -make-world -clean-world",
     "bsb-watch": "bsb -make-world -w",
-    "parcel-build": "parcel build public/index.html -d build",
+    "parcel-build": "parcel build public/index.html --dist-dir build",
     "parcel-watch": "parcel public/index.html"
   },
   "dependencies": {
