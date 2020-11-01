@@ -1,4 +1,4 @@
-# Reason Boilerplate
+# Reason React Boilerplate
 
 😩👌
 
