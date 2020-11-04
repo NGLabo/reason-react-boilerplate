@@ -1,6 +1,6 @@
 # Reason React Boilerplate
 
-- Parcel
+Parcel with Reason React
 
 ## Workspace
 
