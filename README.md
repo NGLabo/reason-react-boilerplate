@@ -1,6 +1,6 @@
 # Reason React Boilerplate
 
-😩👌
+- Parcel
 
 ## Workspace
 
