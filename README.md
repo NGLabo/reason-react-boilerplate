@@ -1,6 +1,6 @@
 # Reason React Boilerplate
 
-[⚠️ DEPRECATED ⚠️](https://rescript-lang.org/bucklescript-rebranding)
+⚠️ [DEPRECATED](https://rescript-lang.org/bucklescript-rebranding) ⚠️
 
 Parcel with Reason React
 
