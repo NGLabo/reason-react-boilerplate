@@ -1,5 +1,7 @@
 # Reason React Boilerplate
 
+[⚠️ DEPRECATED ⚠️](https://rescript-lang.org/bucklescript-rebranding)
+
 Parcel with Reason React
 
 ## Workspace
