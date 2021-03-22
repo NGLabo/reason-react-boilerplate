@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "bsb-watch": "bsb -make-world -w",
-    "parcel-watch": "parcel public/index.html"
+    "parcel-watch": "parcel public/index.html --dist-dir build"
   },
   "dependencies": {
     "react": "^16.8.1",
