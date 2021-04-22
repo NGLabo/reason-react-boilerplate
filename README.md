@@ -2,8 +2,6 @@
 
 ⚠️ [Deprecated](https://rescript-lang.org/bucklescript-rebranding)
 
-Parcel with Reason React
-
 ## Workspace
 
 ### Extensions
